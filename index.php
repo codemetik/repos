@@ -1,1 +1,9 @@
-Hello apa kabar mu disana
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
